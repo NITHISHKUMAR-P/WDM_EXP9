@@ -1,5 +1,5 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
-### DATE: 
+### DATE: 13/04/2024
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -23,8 +23,21 @@ operators for preprocessing:
     <p>e. Remove Numbers: Exclude numeric values from the text.
 3) ***Stemming:*** Apply stemming to reduce words to their root forms. You can use operators like "Stem (Porter)"
 for this purpose.
-
-
 ### Output:
+### Read Excel Operator:
+![image](https://github.com/NITHISHKUMAR-P/WDM_EXP9/assets/93427017/1e07179f-3c86-483a-950b-db7ff4335d53)
+### Excel File:
+![image](https://github.com/NITHISHKUMAR-P/WDM_EXP9/assets/93427017/7379f0b8-3a80-42b7-b8d8-134312342f39)
+### Select Attributes Operator:
+![image](https://github.com/NITHISHKUMAR-P/WDM_EXP9/assets/93427017/8244db3d-ed6f-42c1-8b7c-68bd6ce67c76)
+![image](https://github.com/NITHISHKUMAR-P/WDM_EXP9/assets/93427017/0f43a15e-bd4a-4edc-a744-19fa6ee54a0a)
+### Replace Operator:
+![image](https://github.com/NITHISHKUMAR-P/WDM_EXP9/assets/93427017/ef6806dc-edd6-4234-a3ae-e391ada7daad)
+![image](https://github.com/NITHISHKUMAR-P/WDM_EXP9/assets/93427017/ed66c4d8-422a-46db-ad5f-851941bd5039)
+### Process Documents from data Operator:
+![image](https://github.com/NITHISHKUMAR-P/WDM_EXP9/assets/93427017/c4793f7e-a059-4ee1-89aa-b8e2b4dcf106)
+![image](https://github.com/NITHISHKUMAR-P/WDM_EXP9/assets/93427017/395058a5-cadb-41f7-bf1a-90de46551bbf)
+![image](https://github.com/NITHISHKUMAR-P/WDM_EXP9/assets/93427017/8110d535-a70d-4bd7-8bac-c4b47eaa8785)
 
 ### Result:
+Thus, the data from twitter is preprocessed successfully using rapidminer.
